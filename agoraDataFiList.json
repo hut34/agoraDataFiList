@@ -1,0 +1,87 @@
+{
+  "name": "Agora dataFi Tokens",
+  "logoURI": "",
+  "keywords": [
+    "data",
+    "data economy",
+    "dataFi",
+    "data lego",
+    "open data"
+  ],
+  "tags": {
+    "dataFi": {
+      "name": "dataFi",
+      "description": "Decentralised data project"
+    },
+    "data exchange": {
+      "name": "data exchanges",
+      "description": "Projects and protocols where datasets and information can be exchanged"
+    },
+    "oracle": {
+      "name": "data oracles",
+      "description": "Decentralised APIs, bringing off chain data on chain"
+    },
+    "data protocol": {
+      "name": "data protocols",
+      "description": "Protocols for defining data objects, data security, and data exchange processes"
+    }
+  },
+  "timestamp": "2020-08-27T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5bc7e5f0ab8b2e10d2d0a3f21739fce62459aef3",
+      "symbol": "ENTRP",
+      "name": " Hut34 Entropy",
+      "decimals": 18,
+      "logoURI": "https://hut34.io/dataFiLogos/entropyLogo.png",
+      "tags": [
+        "data exchange",
+        "data protocol",
+        "dataFi"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "decimals": 18,
+      "logoURI": "https://hut34.io/dataFiLogos/chainlink.png",
+      "tags": [
+        "data oracle",
+        "dataFi"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
+      "symbol": "OCEAN",
+      "name": " Ocean Token",
+      "decimals": 18,
+      "logoURI": "https://hut34.io/dataFiLogos/oceanProtocol.png",
+      "tags": [
+        "data protocol",
+        "dataFi"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+      "symbol": "NMR",
+      "name": " Numeraire",
+      "decimals": 18,
+      "logoURI": "https://hut34.io/dataFiLogos/numerairelogo.png",
+      "tags": [
+        "data protocol",
+        "data exchange"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
+

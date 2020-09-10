@@ -9,11 +9,11 @@
     "open data"
   ],
   "tags": {
-    "dataFi": {
-      "name": "dataFi",
+    "datafi": {
+      "name": "datafi",
       "description": "Decentralised data project"
     },
-    "data exchange": {
+    "datadex": {
       "name": "data exchanges",
       "description": "Projects and protocols where datasets and information can be exchanged"
     },
@@ -21,7 +21,7 @@
       "name": "data oracles",
       "description": "Decentralised APIs, bringing off chain data on chain"
     },
-    "data protocol": {
+    "dataproc": {
       "name": "data protocols",
       "description": "Protocols for defining data objects, data security, and data exchange processes"
     }
@@ -36,9 +36,9 @@
       "decimals": 18,
       "logoURI": "https://hut34.io/dataFiLogos/entropyLogo.png",
       "tags": [
-        "data exchange",
-        "data protocol",
-        "dataFi"
+        "datadex",
+        "dataproc",
+        "datafi"
       ]
     },
     {
@@ -49,8 +49,8 @@
       "decimals": 18,
       "logoURI": "https://hut34.io/dataFiLogos/chainlink.png",
       "tags": [
-        "data oracle",
-        "dataFi"
+        "oracle",
+        "datafi"
       ]
     },
     {
@@ -61,8 +61,8 @@
       "decimals": 18,
       "logoURI": "https://hut34.io/dataFiLogos/oceanProtocol.png",
       "tags": [
-        "data protocol",
-        "dataFi"
+        "dataproc",
+        "datafi"
       ]
     },
     {
@@ -73,14 +73,14 @@
       "decimals": 18,
       "logoURI": "https://hut34.io/dataFiLogos/numerairelogo.png",
       "tags": [
-        "data protocol",
-        "data exchange"
+        "dataproc",
+        "datadex"
       ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }

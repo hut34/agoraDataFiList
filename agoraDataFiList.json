@@ -14,15 +14,15 @@
       "description": "Decentralised data project"
     },
     "datadex": {
-      "name": "data exchanges",
+      "name": "datadex",
       "description": "Projects and protocols where datasets and information can be exchanged"
     },
     "oracle": {
-      "name": "data oracles",
+      "name": "oracles",
       "description": "Decentralised APIs, bringing off chain data on chain"
     },
     "dataproc": {
-      "name": "data protocols",
+      "name": "dataproc",
       "description": "Protocols for defining data objects, data security, and data exchange processes"
     }
   },
@@ -37,8 +37,7 @@
       "logoURI": "https://hut34.io/dataFiLogos/entropyLogo.png",
       "tags": [
         "datadex",
-        "dataproc",
-        "datafi"
+        "dataproc"
       ]
     },
     {
@@ -49,8 +48,7 @@
       "decimals": 18,
       "logoURI": "https://hut34.io/dataFiLogos/chainlink.png",
       "tags": [
-        "oracle",
-        "datafi"
+        "oracle"
       ]
     },
     {
@@ -61,8 +59,7 @@
       "decimals": 18,
       "logoURI": "https://hut34.io/dataFiLogos/oceanProtocol.png",
       "tags": [
-        "dataproc",
-        "datafi"
+        "dataproc"
       ]
     },
     {
@@ -76,11 +73,22 @@
         "dataproc",
         "datadex"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+      "symbol": "DATA",
+      "name": "DATAcoin",
+      "decimals": 18,
+      "logoURI": "https://hut34.io/dataFiLogos/streamr.png",
+      "tags": [
+        "dataproc"
+        ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }

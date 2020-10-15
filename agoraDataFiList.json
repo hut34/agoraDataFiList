@@ -53,7 +53,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
+      "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
       "symbol": "OCEAN",
       "name": " Ocean Token",
       "decimals": 18,
@@ -85,10 +85,12 @@
         "dataproc"
         ]
     }
+
+
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

@@ -84,9 +84,40 @@
       "tags": [
         "dataproc"
         ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8eb24319393716668d768dcec29356ae9cffe285",
+      "symbol": "AGI",
+      "name": "SingularityNET",
+      "decimals": 8,
+      "logoURI": "https://hut34.io/dataFiLogos/singularityNET.png",
+      "tags": [
+        "dataproc"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+      "symbol": "FET",
+      "name": "Fetch.ai",
+      "decimals": 18,
+      "logoURI": "https://hut34.io/dataFiLogos/fetch.png",
+      "tags": [
+        "dataproc"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+      "symbol": "DIA",
+      "name": "DIA",
+      "decimals": 18,
+      "logoURI": "https://hut34.io/dataFiLogos/dia.png",
+      "tags": [
+        "dataproc"
+      ]
     }
-
-
   ],
   "version": {
     "major": 1,
